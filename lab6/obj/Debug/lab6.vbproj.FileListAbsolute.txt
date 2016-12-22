@@ -1,0 +1,11 @@
+C:\Users\romanchubak\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.vbprojResolveAssemblyReference.cache
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.Resources.resources
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.vbproj.GenerateResource.Cache
+C:\Users\romanchubak\Desktop\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\romanchubak\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\romanchubak\Desktop\lab6\lab6\bin\Debug\lab6.xml
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.xml
+C:\Users\romanchubak\Desktop\lab6\lab6\obj\Debug\lab6.pdb
